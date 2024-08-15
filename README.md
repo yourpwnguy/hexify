@@ -20,6 +20,11 @@
 
 ## Features 💡
 
+<h1 align="left">
+  <img src="https://i.imgur.com/4bMuF7m.png" alt="subfinder" width="750px" style="box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);">
+  <br>
+</h1>
+
 - Display the hexadecimal representation of a file.
 - Highlight specific byte patterns in the hex dump (e.g., "MZ" header).
 - Set the width of each line and limit the number of lines.
