@@ -50,7 +50,7 @@ func HexPrint(options *runner.Options) {
 		}
 		defer output.Close()
 	} else {
-		output = os.Stderr
+		output = os.Stdout
 	}
 
 	// Loop over the file data and process chunks of `Width` bytes at a time
