@@ -55,7 +55,7 @@ func HexPrint(options *runner.Options) {
 
 	// Loop over the file data and process chunks of `Width` bytes at a time
 	for i := 0; i < len(options.FileData) && options.Lines > 0; i += options.Width {
-		// Loop over the file data and process chunks of `Width` bytes at a time
+		
 		chunk := options.FileData[i:min(i+options.Width, len(options.FileData))]
 
 		// 2nd Part: Format the hex bytes
