@@ -3,7 +3,7 @@
 ![Hexify LOGO](https://i.imgur.com/8AWo5xR.png)
 
 </div>
-<h4 align="center">Simple, fast, and feature-rich hex dump tool with customizable output, highlighting.</h4>
+<h4 align="center">Simple, fast, and feature-rich hex dump tool with customizable output, and highlighting.</h4>
 <p align="center">
 <img src="https://img.shields.io/github/go-mod/go-version/yourpwnguy/hexify">
 <!-- <a href="https://github.com/yourpwnguy/hexify/releases"><img src="https://img.shields.io/github/downloads/yourpwnguy/hexify/total"> -->
