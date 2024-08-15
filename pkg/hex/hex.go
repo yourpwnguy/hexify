@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/iaakanshff/gostyle"
+	"github.com/yourpwnguy/gostyle"
 	"github.com/yourpwnguy/hexify/pkg/logger"
 	"github.com/yourpwnguy/hexify/pkg/runner"
 )

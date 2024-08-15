@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/iaakanshff/gostyle"
+	"github.com/yourpwnguy/gostyle"
 )
 
 var g = gostyle.New()
